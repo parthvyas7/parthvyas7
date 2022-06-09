@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<a href="https://twitter.com/parth_vyas_">
+<a href="https://twitter.com/parthvyas748">
   <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/parthvyas7/">
@@ -7,12 +7,6 @@
 </a>
 <a href="https://www.github.com/parthvyas7">
   <img align="left" alt="Parth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/parthvyas748/">
-  <img align="left" alt="Parth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/parthvyas748/">
-  <img align="left" alt="Parth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.stopstalk.com/user/profile/timothyx">
   <img align="left" alt="Parth's StopStalk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sogou.svg" />
