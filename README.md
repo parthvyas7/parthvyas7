@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **parthv700@gmail.com**
 
-- 📄 Know about my experiences [http://tiny.cc/parthvyas7](http://tiny.cc/parthvyas7)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1D3yRyq3SAH3ig1XRtF4eY7TlMIWyfuPX/view?usp=share_link)
 
 - ⚡ Fun fact **👨🏻‍💻 I love to solve CTFs and other cyber security challenges also 🚀**
 
