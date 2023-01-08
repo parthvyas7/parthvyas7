@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Web development with MERN tech stack**
 
-- 💬 Ask me about **Data structures & algorithms and Web development**
+- 💬 Ask me about **Data structures & algorithms and Web Development**
 
-- 📫 How to reach me **parthv700@gmail.com**
+- 📫 How to reach me: **[Email](mailto:parthv700@gmail.com)**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1D3yRyq3SAH3ig1XRtF4eY7TlMIWyfuPX/view?usp=share_link)
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1D3yRyq3SAH3ig1XRtF4eY7TlMIWyfuPX/view?usp=share_link)**
 
 - ⚡ Fun fact **👨🏻‍💻 I love to solve CTFs and other cyber security challenges also 🚀**
 
@@ -177,6 +177,6 @@
   </a>
 </p>
 
-### Random Dev Quote
+### Random Programming Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
