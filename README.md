@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parth Vyas</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthvyas7&label=Profile%20views&color=0e75b6&style=flat" alt="parthvyas7" /> </p>
 
 - 🌱 I’m currently learning **Web development with MERN tech stack**
 
-- 📫 How to reach me **parthv700@gmail.com**
+- 📫 How to reach me **[Email](mailto:parthv700@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
