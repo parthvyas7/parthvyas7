@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Web development with MERN tech stack**
 
-- 📫 How to reach me **[Email](mailto:parthv700@gmail.com)**
+- 📫 How to reach me **[Email](parthv700@gmail.com)**
+
+- 📄 Know about my experiences [Resume](https://tiny.cc/pvyas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
