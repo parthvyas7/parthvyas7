@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Vyas</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthvyas7&label=Profile%20views&color=0e75b6&style=flat" alt="parthvyas7" /> </p>
 
-- 🌱 I’m currently learning **Web development with MERN tech stack**
+- 🌱 I’m currently learning/developing **Web applications with MERN stack**
 
 - 📫 How to reach me **[Email](mailto:itspv7@gmail.com)**
 
