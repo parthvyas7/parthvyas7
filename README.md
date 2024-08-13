@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **[Email](mailto:itspv7@gmail.com)**
 
-- 📄 Know about my experiences **[Resume](https://tiny.cc/pvyas)**
+- 📄 Know about my experiences **[Resume](https://tiny.cc/itspv7)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
