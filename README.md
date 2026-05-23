@@ -4,7 +4,7 @@ Full-stack engineer focusing on building high-performance web applications and i
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/parthvyas7) &bull; [Twitter](https://twitter.com/parthvyas7t) &bull; [LeetCode](https://www.leetcode.com/parthvyas7) &bull; [Email](mailto:itspv7@gmail.com) &bull; [Resume](https://drive.google.com/file/d/1znWfmdRpr5drgRfuGehUjPBkjBTe0dk9/view?usp=sharing)
+[LinkedIn](https://linkedin.com/in/parthvyas7) &bull; [X](https://x.com/parthvyas7t) &bull; [LeetCode](https://www.leetcode.com/parthvyas7) &bull; [Email](mailto:itspv7@gmail.com) &bull; [Resume](https://drive.google.com/file/d/1jFnyVP4ALa4JlodRe44ODFuIXTch21mJ/view?usp=sharing)
 
 ### Stack
 
